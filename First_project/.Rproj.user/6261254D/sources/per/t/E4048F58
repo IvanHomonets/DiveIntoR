@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525104717964.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4294807754",
+    "id" : "E4048F58",
+    "lastKnownWriteTime" : 1525119323,
+    "last_content_update" : 1525119326183,
+    "path" : "D:/RStudio/projects/First_project/lab_1.R",
+    "project_path" : "lab_1.R",
+    "properties" : {
+        "cursorPosition" : "104,0",
+        "scrollLine" : "94",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

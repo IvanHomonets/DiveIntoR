@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525112073418.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7D1134F8",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1525112073418,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "f1818c2df9a34cbeac52a94c9ae10618",
+        "name" : "price",
+        "title" : "price"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
